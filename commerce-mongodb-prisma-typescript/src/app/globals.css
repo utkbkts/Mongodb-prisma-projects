@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.notfound {
+  display: flex;
+  max-width: 1120px;
+  margin: auto;
+  margin-top: 10%;
+  text-transform: uppercase;
+}
